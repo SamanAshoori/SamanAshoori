@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamanAshoori
 - 👀 I’m interested in making games and coding
-- 🌱 I’m currently learning Javascript and Unity
+- 🌱 I’m currently learning Python and C++
 - 📫 Contact Info not out yet
 
 <!---
