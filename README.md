@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SamanAshoori
-- 👀 I’m interested in making games and coding
-- 🌱 I’m currently learning GD_Script
-- 📫 
+#Intro
+
+Creating Games / Systems in godot in sparetime
+
 
 <!---
 SamanAshoori/SamanAshoori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
