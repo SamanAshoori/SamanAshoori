@@ -1,14 +1,14 @@
-# Hi, I'm [Your GitHub Username/Name]
+# Hello, I'm Saman
 
-A Junior Data Analyst by day and an aspiring Games Developer by night. I am actively building my skills in the Applied Data Science field while exploring the creative world of game development.
+Computer Science Student with Attitude, Currently Working as a Junior Data Analyst working on my SQL and Python Skills - In my spare time working on finishing my bachelors and if any spare time remaining coding little projects
 
 ## Quick Glance
 
-| Attribute | Details |
+| Key Notes | Details |
 | :--- | :--- |
 | **Current Role** | Junior Data Analyst |
 | **Education** | BSc Computer Science (Applied Data Science) - Part-time Remote Student - Graduating 2027 |
-| **Location** | Sheffield, UK |
+| **Location** | South Yorkshire, UK |
 | **Current Focus** | Python (For Data Science and Automation) |
 | **Key Interest** | Games Development |
 
