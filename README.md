@@ -9,7 +9,7 @@ Computer Science Student with Attitude, Currently Working as a Junior Data Analy
 | **Current Role** | Junior Data Analyst |
 | **Education** | BSc Computer Science (Applied Data Science) - Part-time Remote Student - Graduating 2027 |
 | **Location** | South Yorkshire, UK |
-| **Current Focus** | Python (For Data Science and Automation) |
+| **Current Focus** | Python (for basic implementation) | C++ for becoming CRACKED |
 | **Key Interest** | Games Development |
 
 ---
