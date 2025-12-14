@@ -10,7 +10,7 @@ Computer Science Student with Attitude, Currently Working as a Junior Data Analy
 | **Education** | BSc Computer Science (Applied Data Science) - Part-time Remote Student - Graduating 2027 |
 | **Location** | South Yorkshire, UK |
 | **Current Focus** | Python & C++ |
-| **Key Interest** | Gaming, Algorithms, Becoming a GOATED Computer Scientist |
+| **Key Interest** | Gaming, Algorithms, Becoming a GOATED Computer Scientist! |
 
 ---
 
