@@ -1,6 +1,6 @@
 # Hello, I'm Saman Ashoori
 
-Computer Science Guy with Attitude, Currently Working as a Junior Data Analyst working on my SQL and Python Skills - In my spare time working on finishing my bachelors and if any spare time remaining coding little projects
+Computer Scientist, Currently Working as a Junior Data Analyst working on my SQL and Python Skills - In my spare time working on finishing my bachelors and if any spare time remaining coding little projects
 
 ## Quick Glance
 
