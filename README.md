@@ -18,6 +18,7 @@ Computer Science Student, Currently Working as a Junior Data Analyst working on 
 
 ### Programming / Data Science
 * **C++:** Working on "becoming cracked" at C++ to deepen my fundamentals of computing and work on software.
+* * **Linux:** I use Arch btw & NVIM & I'm the goat
 * **Boot.Dev:** Currently Enrolled in the GoLang Boot.Dev to work on my back end programming skills as well as computing fundamentals.
 * **Python:** Focusing on core programming principles, data structures, and standard data analysis libraries (e.g., NumPy, Pandas).
 * **Applied Data Science:** Deepening my understanding of statistical analysis, data cleaning, and visualization techniques. Use of tools such as WEKA and Python Libraries
