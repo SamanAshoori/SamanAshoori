@@ -2,7 +2,7 @@
 
 Computer Science Student, Currently Working as a Junior Data Analyst working on my programming skills - In my spare time working on finishing my bachelors (Computer Science duh) and if any spare time remaining coding little projects.
 
-## Quick Glance
+## Overview
 
 | Key Notes | Details |
 | :--- | :--- |
