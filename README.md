@@ -20,7 +20,7 @@ Computer Science Student, Currently Working as a Junior Data Analyst working on 
 * **C++:** Working on "becoming cracked" at C++ to deepen my fundamentals of computing and work on software.
 * **Boot.Dev:** Currently Enrolled in the GoLang Boot.Dev to work on my back end programming skills as well as computing fundamentals (Git, Linux , Docker).
 * **Python:** Focusing on core programming principles, data structures, and standard data analysis libraries (e.g., NumPy, Pandas).
-* **Applied Data Science:** Deepening my understanding of statistical analysis, data cleaning, and visualization techniques. Use of tools such as WEKA and Python Libraries
+* **Applied Data Science:** Deepening my understanding of statistical analysis, data cleaning, and visualization techniques. Use of tools such as WEKA and Python Libraries for machine learning and computer vision
 
 ### Games Development
 * **Godot Engine:** Actively learning the Godot engine and its scripting language (GDScript) to understand game loop architecture, 2D/3D development, and physics.
