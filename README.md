@@ -24,12 +24,12 @@ Here are a few things I've been working on:
 * Built the game logic to simulate matches and generate datasets.
 * Currently using this environment to train a Neural Network to play the game optimally.
 
-### OpenYolo Computer Vision
+### OpenYolo Computer Vision - Can Detection
 * **Tech Stack:** Python, Computer Vision
 * A Computer Vision project utilizing the OpenYolo architecture.
 * Focused on object detection and image processing workflows using Python.
 
-### Full Stack Web Application
+### Full Stack Web Application - DrinkTracker
 * **Tech Stack:** Svelte, Python (FastAPI), Supabase
 * Built a modern, reactive web application.
 * **Frontend:** Svelte for a fast and responsive user interface.
