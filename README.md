@@ -18,18 +18,18 @@ Computer Science Student, currently working as a Junior Data Analyst and refinin
 
 Here are a few things I've been working on:
 
-### ** Cambio AI & Neural Network Training**
+### Cambio AI & Neural Network Training
 * **Tech Stack:** Python, Machine Learning
 * Developed a complete Python implementation of the card game "Cambio" (also known as Cabo).
 * Built the game logic to simulate matches and generate datasets.
 * Currently using this environment to train a Neural Network to play the game optimally.
 
-### ** OpenYolo Computer Vision**
+### OpenYolo Computer Vision
 * **Tech Stack:** Python, Computer Vision
 * A Computer Vision project utilizing the OpenYolo architecture.
 * Focused on object detection and image processing workflows using Python.
 
-### ** Full Stack Web Application**
+### Full Stack Web Application
 * **Tech Stack:** Svelte, Python (FastAPI), Supabase
 * Built a modern, reactive web application.
 * **Frontend:** Svelte for a fast and responsive user interface.
