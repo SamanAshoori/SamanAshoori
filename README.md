@@ -9,14 +9,19 @@ Computer Science Student, currently working as a Junior Data Analyst and refinin
 | **Current Role** | Junior Data Analyst |
 | **Education** | BSc Computer Science (Applied Data Science) - Final Year |
 | **Location** | UK |
-| **Current Focus** | Python & C++ |
-| **Key Interest** | Gaming, Algorithms, Becoming a GOATED Computer Scientist! |
 
 ---
 
 ## Projects
 
 Here are a few things I've been working on:
+
+### Full Stack Web Application - DrinkTracker
+* **Tech Stack:** Svelte, Python (FastAPI), Supabase
+* Built a modern, reactive web application.
+* **Frontend:** Svelte for a fast and responsive user interface.
+* **Backend:** Python with FastAPI for high-performance API endpoints.
+* **Database:** Integrated Supabase for real-time database management and authentication.
 
 ### Cambio AI & Neural Network Training
 * **Tech Stack:** Python, Machine Learning
@@ -29,12 +34,6 @@ Here are a few things I've been working on:
 * A Computer Vision project utilizing the OpenYolo architecture.
 * Focused on object detection and image processing workflows using Python.
 
-### Full Stack Web Application - DrinkTracker
-* **Tech Stack:** Svelte, Python (FastAPI), Supabase
-* Built a modern, reactive web application.
-* **Frontend:** Svelte for a fast and responsive user interface.
-* **Backend:** Python with FastAPI for high-performance API endpoints.
-* **Database:** Integrated Supabase for real-time database management and authentication.
 
 ---
 
