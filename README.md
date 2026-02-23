@@ -28,6 +28,7 @@ Here are a few things I've been working on:
 * Developed a complete Python implementation of the card game "Cambio" (also known as Cabo).
 * Built the game logic to simulate matches and generate datasets.
 * Currently using this environment to train a Neural Network to play the game optimally.
+* Also attempting in C++ for practice
 
 ### OpenYolo Computer Vision - Can Detection
 * **Tech Stack:** Python, Computer Vision
