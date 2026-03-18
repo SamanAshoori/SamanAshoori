@@ -28,7 +28,6 @@ Here are a few things I've been working on:
 * Developed a complete Python implementation of the card game "Cambio" (also known as Cabo).
 * Built the game logic to simulate matches and generate datasets.
 * Built a Neural Network from scratch and trained an AI to win 41% of the time agaisnt a heuristic algorithm
-* Also attempting in C++ for practice
 
 ### OpenYolo Computer Vision - Can Detection
 * **Tech Stack:** Python, Computer Vision
