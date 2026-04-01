@@ -6,7 +6,7 @@ Computer Science Student, currently working as a Junior Data Analyst and refinin
 
 | Key Notes | Details |
 | :--- | :--- |
-| **Current Role** | Junior Data Analyst |
+| **Current Role** | Data & AI Developer |
 | **Education** | BSc Computer Science (Applied Data Science) - Final Year |
 | **Location** | UK |
 
@@ -25,7 +25,7 @@ Here are a few things I've been working on:
 
 ### Cambio AI & Neural Network Training
 * **Tech Stack:** Python, Machine Learning
-* Developed a complete Python implementation of the card game "Cambio" (also known as Cabo).
+* Developed a complete Python implementation of the card game "Cambio".
 * Built the game logic to simulate matches and generate datasets.
 * Built a Neural Network from scratch and trained an AI to win 41% of the time agaisnt a heuristic algorithm
 
