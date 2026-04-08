@@ -1,6 +1,6 @@
 # Saman Ashoori
 
-Computer Science Student, currently working as a Junior Data Analyst and refining my programming skills. In my spare time, I'm finishing my Computer Science Degree and coding little projects whenever I find a free moment.
+Computer Science Student, currently working as a developer focusing on data / data science tools. In my spare time, I'm finishing my Computer Science Degree and coding projects to further understand computer science and programming.
 
 ## Overview
 
