@@ -16,6 +16,10 @@ Computer Science Student, currently working as a developer focusing on data / da
 
 Here are a few things I've been working on:
 
+### 3D Renderer
+* **Tech Stack:** c / SDL2
+* Building a CPU accelrated 3D renderer
+
 ### Full Stack Web Application - DrinkTracker
 * **Tech Stack:** Svelte, Python (FastAPI), Supabase
 * Built a modern, reactive web application.
