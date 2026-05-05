@@ -17,7 +17,7 @@ Computer Science Student, currently working as a developer focusing on data / da
 Here are a few things I've been working on:
 
 ### 3D Renderer
-* **Tech Stack:** c / SDL2
+* **Tech Stack:** C / SDL2
 * Building a CPU accelrated 3D renderer
 
 ### Full Stack Web Application - DrinkTracker
@@ -37,6 +37,10 @@ Here are a few things I've been working on:
 * **Tech Stack:** Python, Computer Vision
 * A Computer Vision project utilizing the OpenYolo architecture.
 * Focused on object detection and image processing workflows using Python.
+
+* ### Fishing Game
+* **Tech Stack:** Godot
+* fun little side project
 
 
 ---
