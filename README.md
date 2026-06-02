@@ -52,6 +52,7 @@ Here are a few things I've been working on:
 * **Boot.Dev:** Currently enrolled in the GoLang path on Boot.Dev to work on my backend programming skills as well as computing fundamentals (Git, Linux, Docker).
 * **Python:** Focusing on core programming principles, data structures, and standard data analysis libraries (e.g., NumPy, Pandas).
 * **Applied Data Science:** Deepening my understanding of statistical analysis, data cleaning, and visualization techniques. Using tools such as WEKA and Python libraries for machine learning and computer vision.
+* * **Robotics:** Taking my love of software and computing into the physical and human focused medium of robotics
 
 ### Games Development
 * **Godot Engine:** Actively learning the Godot engine and its scripting language (GDScript) to understand game loop architecture, 2D/3D development, and physics.
